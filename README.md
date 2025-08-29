@@ -1,6 +1,6 @@
 # Private key generator
 
-This is example of generating private key from seed phrase for Atom chain.
+This is example of generating private key from seed phrase for Cosmos HUB.
 
 ## Installation
 
